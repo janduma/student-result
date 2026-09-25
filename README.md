@@ -5,6 +5,7 @@ This project converts the StudentsPerformance.csv exploratory-analysis notebook 
 <img width="1447" height="818" alt="WhatsApp Image 2026-09-25 at 12 23 41 PM" src="https://github.com/user-attachments/assets/9af503b3-7829-4938-8980-4c121abebf71" />
 Objectives
 1.To analyze the student performance dataset.
+
 2.To visualize student scores using graphs.
 3.To study the relationship between reading and math scores.
 4.To predict math scores using Simple Linear Regression.
