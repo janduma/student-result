@@ -7,8 +7,11 @@ Objectives
 1.To analyze the student performance dataset.
 
 2.To visualize student scores using graphs.
+
 3.To study the relationship between reading and math scores.
+
 4.To predict math scores using Simple Linear Regression.
+
 5.To evaluate the model using R² Score and MSE.
 
 
