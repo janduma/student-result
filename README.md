@@ -104,8 +104,10 @@ student_streamlit_app/
 Machine Learning Workflow
 
 StudentsPerformance.csv
+
         ↓
 Data Loading
+
         ↓
 Data Cleaning
         ↓
