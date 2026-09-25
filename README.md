@@ -3,7 +3,12 @@
 This project converts the StudentsPerformance.csv exploratory-analysis notebook into an interactive Streamlit web app.
 <img width="1448" height="760" alt="WhatsApp Image 2026-09-25 at 12 23 40 PM" src="https://github.com/user-attachments/assets/62d7db12-380d-466d-ba37-b677dab613cf" />
 <img width="1447" height="818" alt="WhatsApp Image 2026-09-25 at 12 23 41 PM" src="https://github.com/user-attachments/assets/9af503b3-7829-4938-8980-4c121abebf71" />
-
+Objectives
+To analyze the student performance dataset.
+To visualize student scores using graphs.
+To study the relationship between reading and math scores.
+To predict math scores using Simple Linear Regression.
+To evaluate the model using R² Score and MSE.
 
 
 
