@@ -134,4 +134,4 @@ Conclusion
 
 This project demonstrates how student-performance data can be explored through an interactive Streamlit dashboard and how Simple Linear Regression can be used to demonstrate prediction of math scores from reading scores.
 
-Author
+
